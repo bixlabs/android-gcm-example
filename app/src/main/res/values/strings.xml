@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Amazon SNS</string>
+    <string name="project_number">123456789123</string>
+    <string name="register_device">Register device</string>
+</resources>
